@@ -22,6 +22,7 @@ nav ul li{
         margin-right: 2em;
         margin-left:1rem;
         font-family: quasimoda, sans-serif;
+        font-style:normal;
         font-weight: bold;
         font-size: 1.2em;
         text-transform: uppercase;
@@ -59,6 +60,7 @@ footer{
     }
 h5{
     font-family: quasimoda, sans-serif;
+    font-style:normal;
     font-weight: 450;
     }
 
@@ -76,6 +78,7 @@ margin-top: 1em;
 
 p, h3 { 
     font-family: quasimoda, sans-serif;
+    font-style: normal;
 }
 
 
@@ -95,7 +98,9 @@ padding: 1rem 1rem 1rem 1rem;
     list-style-type: none;
     margin-left: 1rem;
     margin-top: 1em;
-    font-family: quasimoda, sans-serif;;
+    font-family: quasimoda, sans-serif;
+    font-style:normal;
+
 }
 .locationitalic{
     font-style:italic;
