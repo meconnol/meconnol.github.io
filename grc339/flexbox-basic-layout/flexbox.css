@@ -13,7 +13,7 @@ div.container {
         flex-wrap: wrap;
         max-width: 60em;
         margin: 1em;
-        padding 1em;
+        padding: 1em;
 }
 
 header {
@@ -21,12 +21,12 @@ header {
 }
 
 article {
-    flex: 2 0 28em ;
+    flex: 2 0 24em ;
     margin-right: 1em;
 }
 
 aside {
-    flex: 1 0 14em ;
+    flex: 1 0 12em ;
 }
 
 footer {
