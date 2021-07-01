@@ -29,12 +29,12 @@ section.personal-info ul li input[type="text"],
 section ul li input[type="email"],
 section ul li input[type="tel"],
 section ul li select {
-	flex: 4 0 32em;
+	flex: 4 1 32em;
 	box-sizing: border-box;
 }
 
 section.personal-info ul li label {
-	flex: 5 0 8em;
+	flex: 4 0 5em;
 }
 
 section.order ul, section.method ul {
